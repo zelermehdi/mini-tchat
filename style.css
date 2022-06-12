@@ -1,0 +1,18 @@
+body{
+   background-color: azure;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+.formulaire {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+.formulaire input{
+    width: 100%;
+
+}
